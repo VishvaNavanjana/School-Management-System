@@ -1,0 +1,8 @@
+$serverName = "localhost";
+$userName = "root";
+$password = "";
+
+
+Admin Login-----
+        User Name =  tharinduprabath@gmail.com
+        Password  =  658523245V
